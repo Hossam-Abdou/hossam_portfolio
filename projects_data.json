@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Health-Track",
+    "description": "A personal medical record app enabling users to store health data offline, track medications, and upload prescriptions",
+    "githubLink": "https://github.com/Hossam-Abdou/health_track",
+    "behanceLink": "https://www.behance.net/gallery/231521813/Health-Track",
+    "technologies": ["MVVM", "Hive", "Cubit"],
+    "imageUrl": "",
+    "imagePath": "assets/images/health_track_image.jpg"
+  },
+  {
+    "name": "E-cloud",
+    "description": "Built a clean product catalog with intuitive categories/subcategories, add-to-cart functionality, and Wishlist saving for seamless shopping. Implemented smooth navigation between product listings, detailed views, and checkout preparation.",
+    "githubLink": "https://github.com/Hossam-Abdou/E-cloud",
+    "behanceLink": "https://www.behance.net/gallery/223261791/E-cloud",
+    "technologies": ["MVVM", "REST APIs:Dio", "cubit", "Responsive [ScreenUtil]"],
+    "imageUrl": "",
+    "imagePath": "assets/images/e-cloud_image.png"
+  },
+  {
+    "name": "Movie Night",
+    "description": "Transform your entertainment experience with our movie app. Discover a vast library of films, explore curated recommendations, and stay updated on the latest releases, all within a user-friendly interface designed for cinephiles.",
+    "githubLink": "https://github.com/Hossam-Abdou/movie-night",
+    "behanceLink": "https://www.behance.net/gallery/220996427/Movie-Night",
+    "technologies": ["MVVM", "REST APIs:http", "Cubit", "Responsive [ScreenUtil]", "Hive"],
+    "imageUrl": "",
+    "imagePath": "assets/images/movie_night_image.png"
+  },
+  {
+    "name": "Chatty",
+    "description": "Connect with friends and family effortlessly through our intuitive chat app. Stay in touch with real-time messaging features.",
+    "githubLink": "https://github.com/Hossam-Abdou/chatty",
+    "behanceLink": "https://www.behance.net/gallery/225753853/Chatty",
+    "technologies": ["MVVM", "Cubit", "Firebase", "Secure Storage"],
+    "imageUrl": "",
+    "imagePath": "assets/images/chatty_image.png"
+  }
+]
